@@ -1,0 +1,7 @@
+{
+  "model_name": "MCG-NJU/videomae-base",
+  "sample_fps": 4.0,
+  "num_frames": 16,
+  "video_size": 6122245,
+  "video_mtime_ns": 1793124400868208698
+}
