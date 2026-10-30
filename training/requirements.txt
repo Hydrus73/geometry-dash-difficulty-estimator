@@ -1,0 +1,8 @@
+# Runtime dependencies for train.py (Python 3.11+).
+torch>=2.2,<3
+torchvision>=0.17,<1
+transformers>=4.40,<5
+yt-dlp[default]>=2025.11.12
+opencv-python-headless>=4.9,<5
+tqdm>=4.66,<5
+matplotlib>=3.8,<4

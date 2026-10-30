@@ -1,0 +1,28 @@
+# Python bytecode and local environments
+__pycache__/
+*.py[cod]
+**/.venv/
+
+# Downloaded media, cached model weights, and feature extractions
+/training/videos/
+/training/features/
+/training/features_*/
+/training/.model_cache/
+/training/level_data/
+/training/cookies*.txt
+
+# Local model checkpoints and generated experiment plots/logs
+/training/**/*.pt
+/training/**/*.png
+/training/**/*.log
+/training/**/*.aux
+/training/**/*.out
+
+# Windows shortcuts
+*.lnk
+
+# Generated milestone report build files and scratch trial
+/reports/milestone/*.aux
+/reports/milestone/*.log
+/reports/milestone/*.out
+/reports/milestone/trial.*
